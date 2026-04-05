@@ -87,8 +87,8 @@ Year 1 @ DigiPen SG — RTIS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=junwxn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junwxn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats-git-master-junwxns-projects.vercel.app/api?username=junwxn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats-git-master-junwxns-projects.vercel.app/api/top-langs/?username=junwxn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=junwxn&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
