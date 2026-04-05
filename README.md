@@ -53,22 +53,22 @@ struct JunWen {
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Project Name 1
-**Brief description of the project.**
+### 🎮 Revenge of the Pinata
+**A 2.5D isometric, hack and slash, roguelike game built entirely in C++**
 
-`C++` `OpenGL` `Game Engine`
+`C++`
 
-[![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/PROJECT_1)
+[![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/junwxn/RevengeOfThePinata)
 
 </td>
 <td width="50%" valign="top">
 
-### 🕹️ Project Name 2
-**Brief description of the project.**
+### 🕹️ WEWASHPL8
+**A simple 2D plate washing game built entirely in C. Clean, minimal gameplay loop with straightforward controls and scoring.**
 
 `C` `Data Structures`
 
-[![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/PROJECT_2)
+[![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/limlz/Game_Project)
 
 </td>
 </tr>
