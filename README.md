@@ -1,14 +1,14 @@
-# Hey there! 👋 I'm Jun Wen
+# Hey there, I'm Jun Wen
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Year+1+RTIS+Student+%40+DigiPen+SG;Game+Dev+%7C+Graphics+Enthusiast;Building+cool+things+with+C%2FC%2B%2B+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Year+1+RTIS+Student+%40+DigiPen+SG;Game+Dev+%7C+Graphics+Enthusiast;Building+cool+things+with+C%2FC%2B%2B)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```cpp
 struct JunWen {
@@ -19,13 +19,13 @@ struct JunWen {
 };
 ```
 
-- 🎮 Passionate about **game development** and building things from scratch
-- 🖥️ Fascinated by **real-time rendering** and how pixels come to life
-- 🌱 Currently levelling up my **C/C++** and low-level programming skills
+- Passionate about **game development** and building things from scratch
+- Fascinated by **real-time rendering** and how pixels come to life
+- Currently levelling up my **C/C++** and low-level programming skills
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -40,13 +40,13 @@ struct JunWen {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Revenge of the Pinata
+### Revenge of the Pinata
 **A 2.5D isometric, hack and slash, roguelike game built entirely in C++**
 
 `C++`
@@ -56,10 +56,10 @@ struct JunWen {
 </td>
 <td width="50%" valign="top">
 
-### 🕹️ WEWASHPL8
+### WEWASHPL8
 **A simple 2D plate washing game built entirely in C. Clean, minimal gameplay loop with straightforward controls and scoring.**
 
-`C` `Data Structures`
+`C`
 
 [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/limlz/Game_Project)
 
@@ -69,21 +69,21 @@ struct JunWen {
 
 ---
 
-## 🗺️ Learning Journey
+## Learning Journey
 
 ```
 Year 1 @ DigiPen SG — RTIS
 ══════════════════════════════════════════════════
 
-✅ Getting comfortable with C/C++
-🔄 Exploring graphics programming & rendering
-🔜 Diving deeper into game engine architecture
-🔜 Physics & math for real-time simulation
+[x] Getting comfortable with C/C++
+[ ] Exploring graphics programming & rendering
+[ ] Diving deeper into game engine architecture
+[ ] Physics & math for real-time simulation
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Year 1 @ DigiPen SG — RTIS
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
