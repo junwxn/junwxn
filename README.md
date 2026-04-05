@@ -23,7 +23,6 @@ struct JunWen {
 - 🎮 Passionate about **game development** and building things from scratch
 - 🖥️ Fascinated by **real-time rendering** and how pixels come to life
 - 🌱 Currently levelling up my **C/C++** and low-level programming skills
-- ⚡ Fun fact: <!-- Add a fun fact about yourself here! -->
 
 ---
 
