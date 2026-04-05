@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## About Me
 
 ```cpp
@@ -23,8 +21,6 @@ struct JunWen {
 - Fascinated by **real-time rendering** and how pixels come to life
 - Currently levelling up my **C/C++** and low-level programming skills
 
----
-
 ## Tech Stack
 
 <div align="center">
@@ -38,8 +34,6 @@ struct JunWen {
 
 </div>
 
----
-
 ## Featured Projects
 
 <table>
@@ -47,7 +41,7 @@ struct JunWen {
 <td width="50%" valign="top">
 
 ### Revenge of the Pinata
-**A 2.5D isometric, hack and slash, roguelike game built entirely in C++**
+**2.5D isometric hack-and-slash roguelike — team project, lead contributor**
 
 `C++`
 
@@ -57,7 +51,7 @@ struct JunWen {
 <td width="50%" valign="top">
 
 ### WEWASHPL8
-**A simple 2D plate washing game built entirely in C. Clean, minimal gameplay loop with straightforward controls and scoring.**
+**2D plate washing game — contributed as a team member**
 
 `C`
 
@@ -67,22 +61,6 @@ struct JunWen {
 </tr>
 </table>
 
----
-
-## Learning Journey
-
-```
-Year 1 @ DigiPen SG — RTIS
-══════════════════════════════════════════════════
-
-[x] Getting comfortable with C/C++
-[ ] Exploring graphics programming & rendering
-[ ] Diving deeper into game engine architecture
-[ ] Physics & math for real-time simulation
-```
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -90,13 +68,7 @@ Year 1 @ DigiPen SG — RTIS
 <img height="180em" src="https://github-readme-stats-ten-taupe-12.vercel.app/api?username=junwxn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 <img height="180em" src="https://github-readme-stats-ten-taupe-12.vercel.app/api/top-langs/?username=junwxn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=junwxn&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junwxn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
-
----
 
 ## Let's Connect
 
@@ -106,8 +78,6 @@ Year 1 @ DigiPen SG — RTIS
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiujunwen02@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
